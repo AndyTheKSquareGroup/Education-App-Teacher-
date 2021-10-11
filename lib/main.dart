@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:educationappteacher/screens/onelogin.dart';
+import 'package:educationappteacher/screens/loginScreen.dart';
 
 void main() {
   runApp(const MyApp());

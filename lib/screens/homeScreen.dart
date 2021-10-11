@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:educationappteacher/screens/threeModelStudents.dart';
-import 'package:educationappteacher/screens/threeProfileStudents.dart';
-import 'package:educationappteacher/screens/threeeCalendarStudents.dart';
+import 'package:educationappteacher/screens/modelHomeScreen.dart';
+import 'package:educationappteacher/screens/profileScreen.dart';
+import 'package:educationappteacher/screens/calendarScreen.dart';
 
 class ThirdHomeStudents extends StatefulWidget {
   const ThirdHomeStudents({Key? key}) : super(key: key);

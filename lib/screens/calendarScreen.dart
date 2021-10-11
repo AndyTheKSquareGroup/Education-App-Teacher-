@@ -1,4 +1,4 @@
-import 'package:educationappteacher/screens/event.dart';
+import 'package:educationappteacher/screens/eventInfoForCalendarScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
 

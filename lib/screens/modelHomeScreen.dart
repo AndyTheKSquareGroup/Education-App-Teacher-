@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
-import 'package:educationappteacher/screens/threeGetInfoStudents.dart';
+import 'package:educationappteacher/screens/getInfoActivitiesScreen.dart';
 
 class ModelNotiStudents extends StatefulWidget {
   const ModelNotiStudents({Key? key}) : super(key: key);

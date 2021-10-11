@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:educationappteacher/screens/onelogin.dart';
+import 'package:educationappteacher/screens/loginScreen.dart';
 
 class TwoCreateAccount extends StatefulWidget {
   const TwoCreateAccount({Key? key}) : super(key: key);
